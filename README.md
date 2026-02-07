@@ -1,33 +1,43 @@
-## Hi there 👋
--- 자바 뱃지
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
+## JeongMin's GitHub
 
--- 스프링 뱃지
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+<div align="center">
+<h2>Tech Stack</h2>
+<strong><p>✨ Platforms & Languages ✨</p></strong>
+<div  align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+	<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white">
+	<br>
+	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+ 	<br>
 
--- 자바스크립트 뱃지
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF"/> 
 
--- HTML5 뱃지
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/>
 
--- CSS3 뱃지 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/> 
+</div>
+<br>
+<div align="center">
+	<strong><p>🛠 Tools 🛠</p></strong>
+</div>
+<div align="center">
+ 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flate&logo=Visual Studio Code&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
+</div>
 
--- jQuery 뱃지
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFF"/> 
 
--- 오라클 뱃지
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=FFF"/> 
 
--- 깃허브 뱃지
-<img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
-
--- 네이버 블로그 뱃지
-<a href="https://blog.naver.com/lio97" target="_blank"><img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/></a>
-
--- 인스타그램 뱃지
-<a href="https://www.instagram.com/so0yeon__?igsh=MXY1ZTBoemg4NW1mNA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
 <!--
 **kyoungsjjj0211/kyoungsjjj0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
